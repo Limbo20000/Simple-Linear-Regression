@@ -1,0 +1,2 @@
+- Simple Linear Regression on a cleaned dataset with using Pythorch Lightning
+- For Logging purposes Weights & Biases is used.
